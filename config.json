@@ -273,7 +273,7 @@
     {
       "name": "三级片",
       "type": "movie",
-      "query": 三级片"
+      "query": "三级片"
     }
 ]
 }
