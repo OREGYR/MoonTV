@@ -269,6 +269,10 @@
       "name": "色情",
       "type": "movie",
       "query": "色情"
+    }，{
+      "name": "三级片",
+      "type": "movie",
+      "query": 三级片"
     }
 ]
 }
