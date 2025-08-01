@@ -249,6 +249,16 @@
       "name": "纪录片",
       "type": "tv",
       "query": "纪录片"
+    },
+    {
+      "name": "伦理片",
+      "type": "tv",
+      "query": "伦理片"
+    },
+    {
+      "name": "伦理片",
+      "type": "movie",
+      "query": "伦理片"
     }
 ]
 }
